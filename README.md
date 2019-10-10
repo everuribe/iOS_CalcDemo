@@ -2,6 +2,9 @@
 
 Native Swift iOS calculator application that utilizes Core Data.
 
+![Calculator Page](Calculator.PNG)
+![History Page](History.PNG)
+
 ## Getting Started
 
 ### Prerequisites
@@ -38,6 +41,7 @@ This application was setup in a couple of hours but with some relatively easy ad
 * Adding more functions to calculator.
 * Adding ability to rotate UI with device
 * Adding more information to history (time stamp) and functions like deleting a row
+* Adding gradient at bottom of history table for aesthetics
 * Test on all device sizes to make sure constraints work for all 
 
 Some more serious adjustments that would be helpful for production readiness would be: 

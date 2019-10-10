@@ -64,7 +64,7 @@ class HistoryView: UIView {
         tableView.leftAnchor.constraint(equalTo: self.leftAnchor).isActive = true
         tableView.topAnchor.constraint(equalTo: self.topAnchor).isActive = true
         tableView.rightAnchor.constraint(equalTo: self.rightAnchor).isActive = true
-        tableView.bottomAnchor.constraint(equalTo: clearButton.topAnchor, constant: 10).isActive = true
+        tableView.bottomAnchor.constraint(equalTo: clearButton.topAnchor, constant: -10).isActive = true
         
         clearButton.centerXAnchor.constraint(equalTo: self.centerXAnchor).isActive = true
         clearButton.bottomAnchor.constraint(equalTo: self.bottomAnchor).isActive = true
