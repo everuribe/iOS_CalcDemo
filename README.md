@@ -2,8 +2,8 @@
 
 Native Swift iOS calculator application that utilizes Core Data.
 
-![Calculator Page](Calculator.PNG)
-![History Page](History.PNG)
+![Calculator Page](CalculatorPage.png)
+![History Page](HistoryPage.png)
 
 ## Getting Started
 
