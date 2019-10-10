@@ -13,7 +13,7 @@ This was built using XCode 11. However the application is based on the UIKit fra
 
 ### Installing
 
-Download the source code and open iOS-CalculatorDemo.xcodeproj. No other installations are required. Hit run on simulator or device. Devices tested include iPads and iPhone X/XMax. 
+Download the source code and open iOS-CalcDemo.xcodeproj. No other installations are required. Hit run on simulator or device. Devices tested include iPads and iPhone X/XMax. 
 
 ## Using application
 
